@@ -40,7 +40,7 @@ export default {
   data() {
     return {
       // OpenWeatherのAPIを使用
-      api_key: '75f608587d64308ab3750ca2c42bdaa3',
+      api_key: 'YourApiKey',
       url_base: 'https://api.openweathermap.org/data/2.5/',
       query: '',
       weather: {}
